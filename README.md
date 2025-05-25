@@ -1,3 +1,8 @@
-# BPI-MSME_Extractor
+<h1>BPI MSME Extractor</h1>
 
-Repository for Web and document scraping for MSME and Professionals
+<h2>Introduction</h2>
+This repository contains all the **webscraping** files I developed for my **Data Science Internship** at **BPI** last January-March 2025.
+The repository contains the following files:
+<li><code>w2_webscraping_BL.ipynb</code>: Contains webscraping tools to extract business information of a specific category in Business Link website</li>
+<li><code>w2_webscraping_YP.ipynb</code>: Contains webscraping tools to extract business information of a specific category in Yellow Page website</li>
+<li><code>CSV_to_Parquet.ipynb</code>: Contains tools to convert .csv files to parquet</li>
